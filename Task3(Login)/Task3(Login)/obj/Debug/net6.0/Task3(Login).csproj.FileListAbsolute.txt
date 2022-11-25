@@ -1,0 +1,15 @@
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task3(Login)\Task3(Login)\obj\Debug\net6.0\Task3(Login).csproj.AssemblyReference.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task3(Login)\Task3(Login)\obj\Debug\net6.0\Task3(Login).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task3(Login)\Task3(Login)\obj\Debug\net6.0\Task3(Login).AssemblyInfoInputs.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task3(Login)\Task3(Login)\obj\Debug\net6.0\Task3(Login).AssemblyInfo.cs
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task3(Login)\Task3(Login)\obj\Debug\net6.0\Task3(Login).csproj.CoreCompileInputs.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task3(Login)\Task3(Login)\bin\Debug\net6.0\Task3(Login).exe
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task3(Login)\Task3(Login)\bin\Debug\net6.0\Task3(Login).deps.json
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task3(Login)\Task3(Login)\bin\Debug\net6.0\Task3(Login).runtimeconfig.json
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task3(Login)\Task3(Login)\bin\Debug\net6.0\Task3(Login).dll
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task3(Login)\Task3(Login)\bin\Debug\net6.0\Task3(Login).pdb
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task3(Login)\Task3(Login)\obj\Debug\net6.0\Task3(Login).dll
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task3(Login)\Task3(Login)\obj\Debug\net6.0\refint\Task3(Login).dll
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task3(Login)\Task3(Login)\obj\Debug\net6.0\Task3(Login).pdb
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task3(Login)\Task3(Login)\obj\Debug\net6.0\Task3(Login).genruntimeconfig.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task3(Login)\Task3(Login)\obj\Debug\net6.0\ref\Task3(Login).dll

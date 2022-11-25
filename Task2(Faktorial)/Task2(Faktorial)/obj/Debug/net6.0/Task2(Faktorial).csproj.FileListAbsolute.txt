@@ -1,0 +1,15 @@
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task2(Faktorial)\Task2(Faktorial)\bin\Debug\net6.0\Task2(Faktorial).exe
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task2(Faktorial)\Task2(Faktorial)\bin\Debug\net6.0\Task2(Faktorial).deps.json
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task2(Faktorial)\Task2(Faktorial)\bin\Debug\net6.0\Task2(Faktorial).runtimeconfig.json
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task2(Faktorial)\Task2(Faktorial)\bin\Debug\net6.0\Task2(Faktorial).dll
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task2(Faktorial)\Task2(Faktorial)\bin\Debug\net6.0\Task2(Faktorial).pdb
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task2(Faktorial)\Task2(Faktorial)\obj\Debug\net6.0\Task2(Faktorial).csproj.AssemblyReference.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task2(Faktorial)\Task2(Faktorial)\obj\Debug\net6.0\Task2(Faktorial).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task2(Faktorial)\Task2(Faktorial)\obj\Debug\net6.0\Task2(Faktorial).AssemblyInfoInputs.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task2(Faktorial)\Task2(Faktorial)\obj\Debug\net6.0\Task2(Faktorial).AssemblyInfo.cs
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task2(Faktorial)\Task2(Faktorial)\obj\Debug\net6.0\Task2(Faktorial).csproj.CoreCompileInputs.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task2(Faktorial)\Task2(Faktorial)\obj\Debug\net6.0\Task2(Faktorial).dll
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task2(Faktorial)\Task2(Faktorial)\obj\Debug\net6.0\refint\Task2(Faktorial).dll
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task2(Faktorial)\Task2(Faktorial)\obj\Debug\net6.0\Task2(Faktorial).pdb
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task2(Faktorial)\Task2(Faktorial)\obj\Debug\net6.0\Task2(Faktorial).genruntimeconfig.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Exceptions\Task2(Faktorial)\Task2(Faktorial)\obj\Debug\net6.0\ref\Task2(Faktorial).dll

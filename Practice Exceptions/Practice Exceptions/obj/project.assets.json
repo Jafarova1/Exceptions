@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "path": "../SErvice/Service.csproj",
+      "msbuildProject": "../SErvice/Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\GULTAJ\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Exceptions\\Practice Exceptions\\Practice Exceptions\\Practice Exceptions.csproj",
+      "projectName": "Practice Exceptions",
+      "projectPath": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Exceptions\\Practice Exceptions\\Practice Exceptions\\Practice Exceptions.csproj",
+      "packagesPath": "C:\\Users\\GULTAJ\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Exceptions\\Practice Exceptions\\Practice Exceptions\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\GULTAJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Exceptions\\Practice Exceptions\\SErvice\\Service.csproj": {
+              "projectPath": "C:\\Users\\GULTAJ\\OneDrive\\Desktop\\Exceptions\\Practice Exceptions\\SErvice\\Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
